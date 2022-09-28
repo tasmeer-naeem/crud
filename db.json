@@ -1,0 +1,32 @@
+{
+  "register": [
+    {
+      "first_name": "tasmeer",
+      "last_name": "naeem",
+      "email": "tasmeer@gmail.com",
+      "password": "tasmeer",
+      "confirm_password": "tasmeer",
+      "id": 2
+    },
+    {
+      "first_name": "123",
+      "last_name": "1332",
+      "email": "1232@g.c",
+      "password": "312",
+      "confirm_password": "132",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "email": "sdds@g.c",
+      "password": "adsd",
+      "id": 1
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 2
+    }
+  ]
+}
